@@ -1,3 +1,3 @@
 # hello-world
-My first repository /n
-I'm following the tutorial
+My first repository
+/nI'm following the tutorial
